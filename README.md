@@ -89,7 +89,7 @@ http://127.0.0.1/landers/2/handler.php?status=lead&yclid={yclid}&sub_id_16={sub_
 
 **URL для Продаж (Sales):**
 ```
-http://127.0.0.1/landers/2/handler.php?status=sale&payout={payout}¤cy={currency}&yclid={yclid}&sub_id_16={sub_id_16}
+http://127.0.0.1/landers/2/handler.php?status=sale&payout={payout}&currency={currency}&yclid={yclid}&sub_id_16={sub_id_16}
 ```
 *Замените `127.0.0.1` на ваш домен, если Keitaro и скрипт находятся на разных серверах.*
 
